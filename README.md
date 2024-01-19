@@ -2,7 +2,7 @@
 
 ### Resonsive-Landing-page---XYPO
 
-- Responsive Book Website Design Using HTML CSS & JavaScript
+- Responsive Landing Page Website Design Using HTML CSS & JavaScript
 - Contains animations when scrolling.
 - Smooth scrolling in each section.
 - Developed first with the Mobile First methodology, then for desktop.
